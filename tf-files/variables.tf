@@ -3,11 +3,11 @@
 #####################################
 
 variable "github_token" {
-  default = "*************************"
+  default = "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"
 }
 
 variable "github_repository_name" {
-  default = "terraform-alb-asg-app"
+  default = "terraform-flask-app"
 }
 variable "github_repository_branch_name" {
   default = "master"
