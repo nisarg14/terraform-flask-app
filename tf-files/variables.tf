@@ -3,7 +3,7 @@
 #####################################
 
 variable "github_token" {
-  default = "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"
+  default = "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"
 }
 
 variable "github_repository_name" {
